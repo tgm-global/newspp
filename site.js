@@ -10,9 +10,9 @@
    Ye ek hi jagah badalni hai, saare pages ke forms par lagu hogi. */
 const WEB3FORMS_KEY = "727ae0dd-437e-46a8-bb65-e2a6d72287f6";
 
-const PHONE_LINK = "tel:+918510813358";
-const PHONE_TEXT = "+91 85108 13358";
-const WA_URL = "https://wa.me/918510813358";
+const PHONE_LINK = "tel:+918510813357";
+const PHONE_TEXT = "+91 85108 13357";
+const WA_URL = "https://wa.me/918510813357";
 
 /* ---------- 1b. HOME PAGE HERO (upar wali animated machine) ----------
    Abhi home page par animated machine ka drawing dikhta hai.
