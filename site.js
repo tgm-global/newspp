@@ -258,7 +258,7 @@ document.querySelectorAll('a[href^="tel:"]').forEach(a=>{
     document.addEventListener("visibilitychange", mark, {once:true});
     setTimeout(()=>{
       if(left) return;
-      if(navigator.clipboard) navigator.clipboard.writeText("+918510813358").catch(()=>{});
+      if(navigator.clipboard) navigator.clipboard.writeText("+918510813357").catch(()=>{});
       showToast("Dialer did not open. Number "+PHONE_TEXT+" copied.");
     }, 1200);
   });
